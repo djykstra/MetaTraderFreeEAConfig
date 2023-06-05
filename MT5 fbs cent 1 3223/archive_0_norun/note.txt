@@ -1,0 +1,2 @@
+gbpusd dv mt5m15 1k v7 fbsc1-lft
+lost
