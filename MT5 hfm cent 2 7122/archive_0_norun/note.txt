@@ -1,0 +1,6 @@
+gbpusd dv mt5m10 5h v8 hfmc2-lft
+to small result
+should hfm lot multiply by 100?
+
+================================
+
